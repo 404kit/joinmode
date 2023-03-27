@@ -1,0 +1,4 @@
+name: joinmode
+version: '${project.version}'
+main: com.kouno.joinmode.joinmode
+api-version: 1.19

@@ -1,0 +1,7 @@
+#入ったときにゲームモードをなににするか
+#SURVIVAL,ADVENTURE,CREATIVE
+defaultGameMode: SURVIVAL
+#特定のプレイヤーは入ったときにゲームモードをなににするあ
+players:
+#プレイヤーのMCID: ゲームモード
+#(例)  steve: ADVENTURE
